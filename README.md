@@ -28,5 +28,5 @@ The code should merge the data from schools_complete and students_complete into 
 - Math Scores by Grade, which lists the average math scores for students of each grade level at each school
 - Reading Scores by Grade, which lists the average reading scores for students of each grade level at each school 
 - Scores by School Spending, which compares school performance (Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, % Overall Passing) based on four reasonable groupings of average spending ranges per student
-- Scores by School Size, which compares school performance based reasonable approximations of Small, Medium, and Large school size
-- Scores by School Type, which compares school performance based school type
+- Scores by School Size, which compares school performance based on reasonable approximations of Small, Medium, and Large school size
+- Scores by School Type, which compares school performance based on school type
