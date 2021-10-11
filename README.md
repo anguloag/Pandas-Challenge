@@ -1,4 +1,4 @@
-# Pandas Challenge - PyCitySchools
+# Py City Schools: Pandas Challenge 
 ### Objective
 Develop a code using python and pandas to analyze Py City Schools' district-wide standardized test results and create summary tables to highlight trends in school performance. 
 
